@@ -29,5 +29,5 @@ root@ae65f549c1b0:~#
 ```
 
 # Issues
-If you run into any problems with this image, please check (and potentially file new) issues on the [timeclone/debian-sshd](https://github.com/thinegan/timeclone/tree/master/debian-sshd) repo, which is the source for this image.
+If you run into any problems with this image, please check (and potentially file new) issues on the [timeclone/debian-sshd](https://github.com/thinegan/debian-sshd) repo, which is the source for this image.
 
